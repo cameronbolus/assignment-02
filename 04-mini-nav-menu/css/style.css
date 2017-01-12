@@ -1,0 +1,22 @@
+.header{
+  font-family: "Futura";
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  font-size: 12px;
+}
+.navigation div{
+  background-color: rgb(205,92,92);
+  font-family: "Futura";
+  color: white;
+  font-weight: 500;
+  display: inline;
+  padding: 8px;
+  margin-right: 8px;
+  font-size: 14px;
+}
+.navigation{
+    margin-top: 15px;
+}

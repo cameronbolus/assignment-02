@@ -1,0 +1,26 @@
+body{
+  background: #fcfcf2;
+}
+#container{
+  width: 700px;
+  margin-left: 50px;
+  font-family: "Georgia";
+  line-height: 1.25;
+  font-weight: lighter;
+}
+#underline{
+  text-decoration: underline;
+  font-weight: lighter;
+}
+#block{
+  font-family: "Geneva";
+  background-color: black;
+  color: white;
+  font-weight: lighter;
+}
+.blue{
+  color: #bbd2f2;
+}
+.content h1{
+  font-weight: lighter;
+}
